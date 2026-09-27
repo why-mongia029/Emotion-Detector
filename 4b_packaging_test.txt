@@ -1,0 +1,3 @@
+C:\Users\mongi\Emotion-Detector>python -c "from EmotionDetection import emotion_detection; print('EmotionDetection package imported successfully')"
+
+EmotionDetection package imported successfully
